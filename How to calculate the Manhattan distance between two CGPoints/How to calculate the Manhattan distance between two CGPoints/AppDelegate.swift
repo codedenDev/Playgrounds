@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  How to calculate the Manhattan distance between two CGPoints
 //
-//  Created by Stephen DeStefano on 12/5/17.
-//  Copyright © 2017 Stephen DeStefano. All rights reserved.
 //
 
 import UIKit
